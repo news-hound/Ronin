@@ -59,7 +59,7 @@
 	.main-nav li{ display:block;}
 	.main-nav li.small-logo{ display:none;}
 	.main-nav li a{ display:block; padding:7px 32px; border-bottom:none;}
-	.main-nav li a:hover{color:#7cc576}
+	.main-nav li a:hover{color:#3a428b}
 	.team-leader-box{ max-width:307px; width:auto; float:none; margin:0 auto;	}
 	.team-leader-box:nth-of-type(3n){ margin:0 auto}
 	.res-nav_click{ display:block;}
